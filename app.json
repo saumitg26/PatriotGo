@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "PatriotGo",
+    "slug": "patriot-go",
+    "scheme": "patriotgo", 
+    "ios": {
+      "bundleIdentifier": "com.saumit.patriotgo",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.saumit.patriotgo"
+    }
+  }
+}
