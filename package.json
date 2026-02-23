@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "expo-blur": "~15.0.8",
+    "expo-haptics": "~15.0.8",
+    "expo-linking": "~8.0.11",
+    "expo-constants": "~18.0.13",
+    "expo-web-browser": "~15.0.10",
+    "expo-auth-session": "~7.0.10",
+    "expo-image-picker": "~17.0.10",
+    "@expo/vector-icons": "^15.0.3",
+    "base64-arraybuffer": "*",
+    "react-native-paper": "4.9.2",
+    "expo-linear-gradient": "~15.0.8",
+    "react-native-screens": "~4.16.0",
+    "@aws-sdk/lib-dynamodb": "*",
+    "@supabase/supabase-js": "*",
+    "@react-navigation/stack": "*",
+    "@aws-sdk/client-dynamodb": "3.990.0",
+    "@react-navigation/native": "*",
+    "react-native-gesture-handler": "~2.28.0",
+    "@react-navigation/bottom-tabs": "*",
+    "react-native-safe-area-context": "~5.6.0",
+    "@react-native-async-storage/async-storage": "2.2.0"
+  }
+}
