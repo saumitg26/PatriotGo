@@ -101,7 +101,26 @@ PatriotGo uses a sophisticated multi-database strategy to ensure speed, security
 
 ---
 
-## 🎓 About the Developer
-Developed by a George Mason University Computer Science student. This project explores the intersection of mobile development, real-time systems, and cloud data warehousing to solve modern urban mobility challenges.
+## 🎓 About the Development Team
 
-**Go Patriots!** 🦅
+This project was built by a team of Computer Science students at :contentReference[oaicite:0]{index=0} during :contentReference[oaicite:1]{index=1}, a fast-paced hackathon focused on creating impactful technology solutions under strict time constraints.
+
+The goal of this project was to explore the intersection of:
+
+- 📱 Mobile application development  
+- ⚡ Real-time communication systems  
+- ☁️ Cloud-backed data systems  
+- 🌆 Technology for modern urban mobility  
+
+### 👥 Team Members
+
+- Saumit Guduguntla  
+- Uday Kandi  
+- Vrishak Vemuri  
+- Tejas Ravipati  
+
+Each team member contributed to the design, development, and implementation of the system, including frontend development, backend infrastructure, and real-time functionality.
+
+---
+
+*Built collaboratively at PatriotHacks in a competitive hackathon environment (PatriotHacks @George Mason University.*
