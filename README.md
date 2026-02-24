@@ -103,7 +103,9 @@ PatriotGo uses a sophisticated multi-database strategy to ensure speed, security
 
 ## 🎓 About the Development Team
 
-This project was built by a team of Computer Science students at :contentReference[oaicite:0]{index=0} during :contentReference[oaicite:1]{index=1}, a fast-paced hackathon focused on creating impactful technology solutions under strict time constraints.
+This project was engineered by a team of Computer Science students at George Mason University during PatriotHacks 2025, a 36-hour hackathon focused on building high-impact technology under strict time constraints.
+
+Our mission was to explore the synergy between mobile accessibility, real-time data integrity, and scalable cloud architectures to solve modern urban mobility challenges.
 
 The goal of this project was to explore the intersection of:
 
