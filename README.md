@@ -44,8 +44,30 @@ PatriotGo uses a sophisticated multi-database strategy to ensure speed, security
 
 ---
 ## Screens 
+Login Screen
 <img width="162" height="333" alt="image" src="https://github.com/user-attachments/assets/a055745a-2911-494b-9246-f103b9d3b13e" />
-<img width="162" height="333" alt="image" src="https://github.com/user-attachments/assets/a055745a-2911-494b-9246-f103b9d3b13e" />
+
+Sign Up Screen
+<img width="155" height="320" alt="image" src="https://github.com/user-attachments/assets/333937c7-3637-41e3-a8e3-a5a32d8d6d70" />
+
+Feed Screen
+<img width="156" height="324" alt="image" src="https://github.com/user-attachments/assets/61eb4d46-db9c-48b9-ac20-436dd86c0f5f" />
+
+Pinging Screen
+<img width="145" height="301" alt="image" src="https://github.com/user-attachments/assets/30773c0b-c5c2-416e-9fd4-d6916458fa15" />
+
+Chat/Updating Screen
+<img width="154" height="306" alt="image" src="https://github.com/user-attachments/assets/87120e34-62ac-4162-bf45-81b4a95ea966" />
+
+Profile Screen
+<img width="159" height="313" alt="image" src="https://github.com/user-attachments/assets/1a1330d8-7caf-4cbc-a9c5-1ef327da5a55" />
+
+Settings/Edit Screen
+<img width="159" height="311" alt="image" src="https://github.com/user-attachments/assets/eb42b1a0-1758-478d-9673-8b86dc4358fe" />
+
+
+
+
 
 
 
