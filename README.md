@@ -125,4 +125,4 @@ Each team member contributed to the design, development, and implementation of t
 
 ---
 
-*Built collaboratively at PatriotHacks in a competitive hackathon environment (PatriotHacks @George Mason University.*
+*Built collaboratively at PatriotHacks in a competitive hackathon environment (PatriotHacks @George Mason University).*
