@@ -44,11 +44,9 @@ PatriotGo uses a sophisticated multi-database strategy to ensure speed, security
 
 ---
 ## Screens 
-**Login Screen
-*<img width="162" height="333" alt="image" src="https://github.com/user-attachments/assets/a055745a-2911-494b-9246-f103b9d3b13e" />
+**Login Screen <img width="162" height="333" alt="image" src="https://github.com/user-attachments/assets/a055745a-2911-494b-9246-f103b9d3b13e" />
 
-Sign Up Screen
-<img width="155" height="320" alt="image" src="https://github.com/user-attachments/assets/333937c7-3637-41e3-a8e3-a5a32d8d6d70" />
+Sign Up Screen <img width="155" height="320" alt="image" src="https://github.com/user-attachments/assets/333937c7-3637-41e3-a8e3-a5a32d8d6d70" />
 
 Feed Screen
 <img width="156" height="324" alt="image" src="https://github.com/user-attachments/assets/61eb4d46-db9c-48b9-ac20-436dd86c0f5f" />
