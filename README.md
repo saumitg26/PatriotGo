@@ -42,6 +42,12 @@ PatriotGo uses a sophisticated multi-database strategy to ensure speed, security
 2.  **Scalability:** Active ride states and session caches are pushed to **DynamoDB**.
 3.  **Analytics:** Daily ride logs are ETL-processed into **Redshift** for long-term trend analysis.
 
+---
+## Screens 
+<img width="162" height="333" alt="image" src="https://github.com/user-attachments/assets/a055745a-2911-494b-9246-f103b9d3b13e" />
+<img width="162" height="333" alt="image" src="https://github.com/user-attachments/assets/a055745a-2911-494b-9246-f103b9d3b13e" />
+
+
 
 
 ---
